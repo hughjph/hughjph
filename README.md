@@ -8,6 +8,9 @@ I am familiar with Python, Javascript, HTML and CSS.
 
 Hugh Johnson
 I am an A Level student studying Further Maths and Physics.
-I am familiar with Python, Javascript, HTML and CSS.
-I can 
--->
+I am familiar with
+* Python
+* Java
+* C#
+* HTML/CSS
+* JavaScript
