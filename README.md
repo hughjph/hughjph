@@ -7,4 +7,7 @@ I am familiar with
 * HTML/CSS
 * JavaScript
 
+Contact: 
+* discord - hughjph#4569
+* email - hughjohnson2018@outlook.com
 
