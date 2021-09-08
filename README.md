@@ -4,10 +4,9 @@ I am familiar with
 * Python
 * Java
 * C#
-* HTML/CSS
-* JavaScript
+<br>
 
 <b>Contact:<b> 
-* discord - hughjph#4569
-* email - hughjohnson2018@outlook.com
+* Discord - hughjph#4569
+* Email   - hughjohnson2018@outlook.com
 
