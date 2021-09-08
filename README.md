@@ -1,5 +1,5 @@
 ### Hugh Johnson
-I am an A Level student studying Further Maths and Physics. <br>
+I am an A Level Maths and Physics student. <br>
 I am familiar with
 * Python
 * Java
