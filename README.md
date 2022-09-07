@@ -1,5 +1,5 @@
 ### Hugh Johnson
-I am an A Level Maths and Physics student. <br>
+I am a 1st Year Computer Science student at Newcastle University<br>
 I am familiar with
 * Python
 * Java
@@ -11,5 +11,3 @@ I am familiar with
 * Discord - hughjph#4569
 * Email   - hughjohnson2018@outlook.com
 
-<!--![Hugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hughjph&show_icons=true&theme=default_repocard)-->
-![Hugh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hughjph&layout=compact&theme=buefy&hide_border=true)
