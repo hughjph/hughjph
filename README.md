@@ -4,6 +4,7 @@ I am familiar with
 * Java
 * Python
 * C#
+* MySQL
 <br>
 
 <b>Contact:<b> 
