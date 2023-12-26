@@ -1,13 +1,7 @@
 ### Hugh Johnson
-I am a 1st Year Computer Science student at Newcastle University<br>
-I am familiar with
-* Java
-* Python
-* C#
-* MySQL
+I am a 2nd Year Computer Science student at Newcastle University<br>
+
 <br>
 
-<b>Contact:<b> 
-* Discord - hughjph#7794
 * Email   - hughjohnson2018@outlook.com
 
